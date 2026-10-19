@@ -7,3 +7,11 @@
 
 ![Final Conceptual Model](./Final_Conceptual_Model.drawio.svg)
 *Final Conceptual Database Model*
+
+## Group
+
+This project was developed by:
+
+* Gabriel Magalhães (up202405890)
+* Guilherme Cunha (up202405961)
+* Pedro Pires (up202405967)
