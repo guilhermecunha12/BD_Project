@@ -1,4 +1,4 @@
-# Evil Live Music Festival (2025 edition) Management Database
+# Evil Live Music Festival Management Database
 
 * This repository contains the database design and implementation for the [Evil Live Music Festival](https://evillive.rocks/) (2025 edition) management system.
 
